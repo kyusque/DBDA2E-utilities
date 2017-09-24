@@ -6,3 +6,9 @@ cache: packages
 
 r_binary_packages:
  - runjags
+
+env:
+  global:
+    - R_BUILD_ARGS="--no-multiarch"
+    - R_CHECK_ARGS="--no-multiarch"
+    
