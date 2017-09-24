@@ -1,0 +1,13 @@
+Package: DBDA2E
+Type: Package
+Title:  Packaged One for DBDA2E-utilities.R in 'Kruschke, J. K. (2015). Doing Bayesian Data Analysis, Second Edition'
+Version: 0.1.0
+Author: Who wrote it
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: MIT
+Imports: rjags, runjags, parallel, coda
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
